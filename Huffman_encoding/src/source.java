@@ -77,7 +77,6 @@ class source
         Map<Character, Integer> frequencyMap = new HashMap<>();
             // Read the file using a Scanner
             Scanner scanner = new Scanner(new File("C:\\Users\\I527373\\Documents\\motto.txt"));
-            //char test_array[] = new char[1000000000];
             String to_encode = "";
 
             // Iterate through each line of the file
